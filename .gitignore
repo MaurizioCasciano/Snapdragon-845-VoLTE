@@ -1,3 +1,5 @@
 .idea/
 *.zip
 *.tgz
+*.tar.md5
+*.img
