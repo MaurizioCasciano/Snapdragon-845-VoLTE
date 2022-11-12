@@ -63,3 +63,5 @@ How to enable VoLTE on Snapdragon 845 devices
 - [EFS Professional](https://github.com/0x7c3d7c/EFS-Professional-Source)
 - [XperiFirm](https://forum.xda-developers.com/t/tool-xperifirm-xperia-firmware-downloader-v5-6-5.2834142/)
 - [UnSIN](https://forum.xda-developers.com/t/tool-unsin-sin-v3-v4-v5-unpacker-v1-13.3128106/)
+- [MBN Utils](https://github.com/fenrir-naru/mbn_utils)
+- [Ruby Version Manager (RVM)](https://github.com/rvm/rvm)
