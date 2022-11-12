@@ -7,3 +7,4 @@
 *.exe
 Tools/*
 !Tools/.gitkeep
+!Tools/MBN-Utils
