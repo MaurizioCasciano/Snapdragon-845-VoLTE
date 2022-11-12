@@ -65,3 +65,5 @@ How to enable VoLTE on Snapdragon 845 devices
 - [UnSIN](https://forum.xda-developers.com/t/tool-unsin-sin-v3-v4-v5-unpacker-v1-13.3128106/)
 - [MBN Utils](https://github.com/fenrir-naru/mbn_utils)
 - [Ruby Version Manager (RVM)](https://github.com/rvm/rvm)
+- [Android OTA Payload Dumper GO](https://github.com/ssut/payload-dumper-go)
+- [Android OTA Payload Dumper Python](https://github.com/vm03/payload_dumper)
