@@ -1,7 +1,7 @@
 # Snapdragon-845-VoLTE
 How to enable VoLTE on Snapdragon 845 devices
 
-# Snapdragon 845 devices
+## Snapdragon 845 devices
 - [Asus Zenfone 5Z](https://www.gsmarena.com/asus_zenfone_5z_zs620kl-9096.php)
 - [Google Pixel 3](https://www.gsmarena.com/google_pixel_3-9256.php)
 - [Google Pixel 3 XL](https://www.gsmarena.com/google_pixel_3_xl-9257.php)
@@ -53,3 +53,12 @@ How to enable VoLTE on Snapdragon 845 devices
 | [Xiaomi Mi 8](https://www.gsmarena.com/xiaomi_mi_8-9065.php)                         | [dipper](https://mifirm.net/model/dipper.ttt)                                       |       |
 | [Xiaomi Pocophone F1](https://www.gsmarena.com/xiaomi_pocophone_f1-9293.php)         |                                                                                     |       |
 | [ZTE Axon 9 Pro](https://www.gsmarena.com/zte_axon_9_pro-9069.php)                   |                                                                                     |       |
+
+## Tools
+
+- [QPST Tool](https://qpsttool.com/)
+- [JohnBel EFSTools](https://github.com/JohnBel/EfsTools)
+- [HomerSp EFSTools](https://github.com/HomerSp/EfsTools)
+- [EFS Professional](https://github.com/0x7c3d7c/EFS-Professional-Source)
+- [XperiFirm](https://forum.xda-developers.com/t/tool-xperifirm-xperia-firmware-downloader-v5-6-5.2834142/)
+- [UnSIN](https://forum.xda-developers.com/t/tool-unsin-sin-v3-v4-v5-unpacker-v1-13.3128106/)
