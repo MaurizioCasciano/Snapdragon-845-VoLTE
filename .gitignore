@@ -5,3 +5,5 @@
 *.tar.md5
 *.img
 *.exe
+Tools/*
+!Tools/.gitkeep
