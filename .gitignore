@@ -8,3 +8,5 @@
 Tools/*
 !Tools/.gitkeep
 !Tools/MBN-Utils
+Firmwares/*
+!Firmwares/.gitkeep
