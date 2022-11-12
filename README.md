@@ -56,6 +56,7 @@ How to enable VoLTE on Snapdragon 845 devices
 
 ## Tools
 
+- [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
 - [QPST Tool](https://qpsttool.com/)
 - [JohnBel EFSTools](https://github.com/JohnBel/EfsTools)
 - [HomerSp EFSTools](https://github.com/HomerSp/EfsTools)
