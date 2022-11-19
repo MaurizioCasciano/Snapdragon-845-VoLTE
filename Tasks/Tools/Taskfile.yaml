@@ -1,6 +1,6 @@
 version: "3"
 
 tasks:
-  rest:
+  default:
     cmds:
-      - echo "rest"
+      - "echo 'Tools'"

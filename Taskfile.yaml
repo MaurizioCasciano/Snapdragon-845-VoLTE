@@ -7,7 +7,7 @@ includes:
   tools: "Tasks/Tools/Taskfile.yaml"
 
 tasks:
-  whoami:
+  default:
     cmds:
       - echo "Snapdragon 845 VoLTE"
 

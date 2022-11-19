@@ -1,6 +1,9 @@
 version: "3"
 
 tasks:
+  default:
+    cmds:
+      - "echo 'Firmwares'"
   download-google-pixel-3-firmware:
     cmds:
       - "wget -P 'Firmwares/Google/Pixel 3' https://dl.google.com/dl/android/aosp/blueline-sp1a.210812.016.c2-factory-fa981d87.zip"
