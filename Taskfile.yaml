@@ -1,11 +1,13 @@
-version: 3
+version: "3"
 
 dotenv: ['.env']
+
+includes:
+  firmwares: "Tasks/Firmwares/Taskfile.yaml"
+  tools: "Tasks/Tools/Taskfile.yaml"
 
 tasks:
   whoami:
     cmds:
       - echo "Snapdragon 845 VoLTE"
-  download-google-pixel-3-firmware:
-    cmds:
-      - wget -P "Firmwares/Google/Pixel 3" https://dl.google.com/dl/android/aosp/blueline-sp1a.210812.016.c2-factory-fa981d87.zip
+
