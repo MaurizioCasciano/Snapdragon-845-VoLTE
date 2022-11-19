@@ -4,3 +4,7 @@ tasks:
   default:
     cmds:
       - "echo 'Tools'"
+  nb0-unpack:
+    cmds:
+      - "rm -rf Tools/nb0-unpack"
+      - "git submodule add -f https://github.com/HemanthJabalpuri/nb0-unpack Tools/nb0-unpack"
