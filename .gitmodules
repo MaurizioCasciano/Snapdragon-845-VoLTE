@@ -1,3 +1,6 @@
 [submodule "Tools/MBN-Utils"]
 	path = Tools/MBN-Utils
 	url = https://github.com/fenrir-naru/mbn_utils.git
+[submodule "Tools/nb0-unpack"]
+	path = Tools/nb0-unpack
+	url = https://github.com/HemanthJabalpuri/nb0-unpack

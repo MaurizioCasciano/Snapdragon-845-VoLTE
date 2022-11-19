@@ -8,5 +8,6 @@
 Tools/*
 !Tools/.gitkeep
 !Tools/MBN-Utils
+!Tools/nb0-unpack
 Firmwares/*
 !Firmwares/.gitkeep
